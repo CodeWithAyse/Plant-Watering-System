@@ -1,0 +1,61 @@
+https://robolinkmarket.com/mini-dalgic-su-pompasi-3v-6v-ip68
+https://robolinkmarket.com/5v-1-kanal-role-karti-7489
+https://robolinkmarket.com/varta-2022-superlife-9v-pil
+https://robolinkmarket.com/toprak-nem-sensoru
+https://robolinkmarket.com/2x16-lcd-ekran-mavi-i2c-arayuzu-modulu
+https://robolinkmarket.com/ic-232-pil-basligi-9v-t-tip
+https://robolinkmarket.com/orta-boy-breadboard-beyaz-85x5
+
+
+for sensor 
+
+    female-female jumper
+A0-----------------------------A0 
+
+         female-male
+GDN --------------------------     GND 
+
+         female-male
+VCC  ----------------------  VCC
+
+
+for led
+
+         female-male
+GDN --------------------------     GND 
+
+         female-male
+VCC  ----------------------  VCC
+
+         female-female
+SDA --------------------------     D2 
+
+         female-female
+SCL  ----------------------  D1
+
+
+for role
+
+         female-male
+GDN --------------------------     GND 
+
+         female-male
+VCC  ----------------------  VCC
+
+         female-female
+IN --------------------------     D3
+
+for ESP 
+         female-male
+GDN --------------------------     GND 
+
+         female-male
+VCC  ----------------------  VCC
+
+
+referances:
+https://www.youtube.com/watch?v=WLCR0r7rYi8
+
+
+
+
